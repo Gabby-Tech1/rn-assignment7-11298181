@@ -72,3 +72,9 @@ This is a React Native e-commerce application that allows users to browse throug
 - The app uses AsyncStorage to store selected items locally on the device, ensuring that the cart data persists between sessions.
 
 ## Screenshots of the various screens
+![IMG-20240712-WA0049](https://github.com/user-attachments/assets/8bb5a622-9c1f-4d56-9fdc-c57626618e33)
+![IMG-20240712-WA0050](https://github.com/user-attachments/assets/30409402-d299-4b31-a87b-b53e195fcdc3)
+![IMG-20240712-WA0051](https://github.com/user-attachments/assets/3966b893-2128-46d6-8d73-c1236ebdb289)
+![IMG-20240712-WA0054](https://github.com/user-attachments/assets/239f9e16-238d-4cc4-abc1-8ce5867c7ad7)
+![IMG-20240712-WA0052](https://github.com/user-attachments/assets/13d83b80-4cd7-415e-9a92-bae15e5a64e2)
+![IMG-20240712-WA0053](https://github.com/user-attachments/assets/a1a287e4-0c3c-4e11-bc1e-e87a59a90afd)
